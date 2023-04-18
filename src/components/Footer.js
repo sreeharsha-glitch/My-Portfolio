@@ -1,7 +1,7 @@
 import './FooterStyles.css'
 import { Link } from 'react-router-dom'
 import React from 'react'
-import { FaFacebook, FaGithub, FaHome, FaLinkedin, FaMailBulk, FaPhone, FaTwitter } from "react-icons/fa"
+import { FaFacebook, FaGithub, FaHome, FaLinkedin, FaMailBulk, FaPhone } from "react-icons/fa"
 
 const Footer = () => {
     return (
